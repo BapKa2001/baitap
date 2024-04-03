@@ -39,6 +39,10 @@ public class Main {
         int b = a++;
         int j = --b;
         System.out.println(j);
+        int a1 = 10;
+        int b2 = ++a1;
+        int j1 = b2++;
+        System.out.println(j1);
 
         int h = 100;
         int f = 5;
