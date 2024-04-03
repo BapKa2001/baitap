@@ -49,6 +49,7 @@ public class Main {
         int g = 100;
         System.out.println(h <= g);
         System.out.println(h != g);
+        System.out.println(h == g);
 
         boolean q = true;
         boolean w = false;
